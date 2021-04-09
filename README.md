@@ -1,1 +1,1 @@
-# Drum-Kit
+Mini DOM application based project
